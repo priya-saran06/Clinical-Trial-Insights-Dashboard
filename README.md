@@ -12,9 +12,9 @@ The interactive dashboard was created using **Tableau**, leveraging a sample cli
 ---
 
 ## 🗂 Files in this Repository
-- `Clinical_Trial_Insights.twbx` → Tableau packaged workbook (final dashboard)
+- `Clinical_Trial_Insights_Dashboard.twbx` → Tableau packaged workbook (final dashboard)
 - `cleaned_clinical_trials.csv` → Cleaned dataset used for analysis
-- `dashboard_preview.png` → Screenshot of final dashboard
+- `Dashboard_preview.png` → Screenshot of final dashboard
 - `README.md` → Documentation of the project
 
 ---
