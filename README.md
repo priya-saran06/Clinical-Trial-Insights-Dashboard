@@ -43,5 +43,5 @@ The interactive dashboard was created using **Tableau**, leveraging a sample cli
 ## 👤 Author
 **Saranya**  
 M.Sc. Bioinformatics  
-- 💼 LinkedIn: [Your Profile Link]  
+- 💼 LinkedIn: www.linkedin.com/in/saranya-s-06s17j2003 
 - 📧 Email: priyasaran063@@gmail.com  
