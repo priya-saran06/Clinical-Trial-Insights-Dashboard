@@ -1,0 +1,9 @@
+nct_id,study_type,phase,condition,intervention,sponsor,status,start_date,completion_date,trial_duration,duration_days
+NCT001,Interventional,phase_3,Oncology,Drug A,Industry,completed,1/10/2015,1/10/2018,1096,1096
+NCT002,Interventional,phase_2,Cardiology,Drug B,Academic,recruiting,,,,
+NCT003,Observational,Unknown,Diabetes,Lifestyle Change,Government,completed,,,,
+NCT004,Interventional,phase_4,Oncology,Drug C,Industry,terminated,7/12/2018,7/12/2019,365,365
+NCT005,Observational,phase_1,Infectious Diseases,Drug D,Industry,recruiting,9/1/2019,,,
+NCT006,Interventional,phase_2,Neurology,Drug E,Academic,completed,11/11/2014,11/11/2016,731,731
+NCT007,Interventional,phase_3,Oncology,Drug F,Government,completed,8/8/2016,8/8/2020,1461,1461
+NCT008,Interventional,phase_1,Cardiology,Drug G,Industry,recruiting,10/5/2017,,,
